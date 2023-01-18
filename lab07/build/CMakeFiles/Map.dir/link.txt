@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/Map.dir/Main.cpp.o  -o Map libMyMap.a 

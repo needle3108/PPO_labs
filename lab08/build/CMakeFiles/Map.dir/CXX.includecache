@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/MapPoint.h
+iostream
+-
+
+/home/stud2020/0gawron/PPO/lab08/Main.cpp
+MapPoint.h
+/home/stud2020/0gawron/PPO/lab08/MapPoint.h
+

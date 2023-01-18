@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/MapPoint.h
+iostream
+-
+cmath
+-
+
+/home/stud2020/0gawron/PPO/lab07/Main.cpp
+MapPoint.h
+/home/stud2020/0gawron/PPO/lab07/MapPoint.h
+

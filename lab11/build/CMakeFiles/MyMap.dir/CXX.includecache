@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Grade.h
+iostream
+-
+
+../include/GradeBook.h
+iostream
+-
+vector
+-
+Grade.h
+../include/Grade.h
+
+/home/stud2020/0gawron/PPO/lab11/src/Grade.cpp
+Grade.h
+/home/stud2020/0gawron/PPO/lab11/src/Grade.h
+
+/home/stud2020/0gawron/PPO/lab11/src/GradeBook.cpp
+GradeBook.h
+/home/stud2020/0gawron/PPO/lab11/src/GradeBook.h
+

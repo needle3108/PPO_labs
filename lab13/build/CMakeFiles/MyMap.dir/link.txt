@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyMap.a  CMakeFiles/MyMap.dir/src/MathV.cpp.o
+/usr/bin/ranlib libMyMap.a

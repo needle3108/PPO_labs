@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/StudentGrades.dir/Main.cpp.o -o StudentGrades  libMyMap.a 

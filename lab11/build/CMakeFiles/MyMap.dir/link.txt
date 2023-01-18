@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyMap.a CMakeFiles/MyMap.dir/src/Grade.cpp.o CMakeFiles/MyMap.dir/src/GradeBook.cpp.o
+/usr/bin/ranlib libMyMap.a

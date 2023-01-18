@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/MathV.h
+iostream
+-
+math.h
+-
+
+/home/stud2020/0gawron/PPO/lab12/Main.cpp
+iostream
+-
+MathV.h
+/home/stud2020/0gawron/PPO/lab12/MathV.h
+
